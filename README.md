@@ -45,7 +45,7 @@ An autonomous app builder agent that processes PRD (Product Requirements Documen
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/prd-app-builder.git
+git clone https://github.com/kishorebhatia/pom-new.git
 cd prd-app-builder
 
 # Install dependencies
